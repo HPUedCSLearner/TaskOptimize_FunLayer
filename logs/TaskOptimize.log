@@ -1,0 +1,5 @@
+force_sampling
+sampling_procs [{'atm': 16, 'lnd': 16, 'ice': 16, 'ocn': 16}, {'atm': 30, 'lnd': 30, 'ice': 30, 'ocn': 30}, {'atm': 64, 'lnd': 44, 'ice': 63, 'ocn': 60}, {'atm': 128, 'lnd': 56, 'ice': 126, 'ocn': 120}, {'atm': 192, 'lnd': 68, 'ice': 180, 'ocn': 160}, {'atm': 256, 'lnd': 80, 'ice': 252, 'ocn': 192}, {'atm': 384, 'lnd': 104, 'ice': 360, 'ocn': 336}, {'atm': 448, 'lnd': 116, 'ice': 441, 'ocn': 288}, {'atm': 512, 'lnd': 128, 'ice': 504, 'ocn': 480}]
+sampling......
+case_path /data/wujx01/EARthLab_UQ//casesm_cases//jpl_B1850C5XNCH_opt3
+sampling:  {'atm': 16, 'lnd': 16, 'ice': 16, 'ocn': 16}

@@ -1,0 +1,14 @@
+数据库有匹配算例
+获取相似进程排布
+时间最优方案排布
+ntasks:   {'atm': 128, 'ocn': 127, 'lnd': 63, 'ice': 63} 
+roots:  {'cpl': 0, 'atm': 0, 'ocn': 0, 'lnd': 0, 'ice': 63} 
+pre time:  748.9739217362039 s
+机时最优方案排布
+ntasks:   {'atm': 116, 'ocn': 116, 'lnd': 58, 'ice': 56} 
+roots:  {'cpl': 0, 'atm': 0, 'ocn': 0, 'lnd': 0, 'ice': 58} 
+pre cost:  92657.38983477459 s
+最优方案写入配置文件
+时间最优方案配置文件:  /data/wujx01/EARthLab_UQ/TaskOptimize_FunLayer/output_layout/mintime.ini 
+机时最优方案配置文件:  /data/wujx01/EARthLab_UQ/TaskOptimize_FunLayer/output_layout/mincost.ini
+Run TaskOptimize successfully, the output is in TaskOptimize_FunLayer/output_layout
